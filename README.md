@@ -1,3 +1,4 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/msagi/nd9991-c4-operationalize-machine-learning-ms-api/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/msagi/nd9991-c4-operationalize-machine-learning-ms-api/tree/main)
 # Operationalize a Machine Learning Microservice API
 
 This project contains a Machine Learning Microservice Flask sample application code and model data, as well as a Makefile, Dockerfile and shell scripts to dockerize and run the Docker image on a Kubernetes cluster.
